@@ -1,5 +1,5 @@
 # About Me
-- **Well**, it's a work in *progress*...
+- **Well**, it's a work in *progress*...  
 
 
 <!--
@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 https://www.webfx.com/tools/emoji-cheat-sheet/
-https://www.markdownguide.org/cheat-sheet/
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
 -->
