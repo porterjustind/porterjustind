@@ -1,6 +1,11 @@
-## Hi there 👋
+# About Me
+- **Well**, it's a work in *progress*...
+
 
 <!--
+
+https://docs.github.com/en/get-started/start-your-journey/setting-up-your-profile
+
 **porterjustind/porterjustind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +18,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+https://www.webfx.com/tools/emoji-cheat-sheet/
+https://www.markdownguide.org/cheat-sheet/
+
 -->
